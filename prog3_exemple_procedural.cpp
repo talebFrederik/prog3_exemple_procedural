@@ -3,7 +3,7 @@
  *
  * @file exemple_procedural.cpp
  *
- * @brief This message displayed in Doxygen Files index
+ * @brief Simulation de combat en prog procédurale
  *
  * @author Frédérik Taleb
  * Contact: taleb.frederik@carrefour.cegepvicto.ca
